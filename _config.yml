@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: MoneyGame
-subtitle: The Story of Money, Economy and Finance
-description: 돈, 경제 그리고 투자
+title: HaniStory
+subtitle: The Story of Hani, 한의학
+description: 한의학, 치료, 경험, 의안, 역사
 author: "Big Foot"
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: https://pinedance.github.io
-baseurl: /moneygame
+baseurl: /hanistory
 permalink: /:year/:month/:day/:title
 # permalink: pretty
 
@@ -33,7 +33,7 @@ paginate: 16
   #paginate_path: "/page:num/"
 
 # Handling Reading
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor", "_getPostList.rb"]
 
 # Separator
 #excerpt_separator: <!-- more -->
@@ -77,10 +77,10 @@ plugins:
 # Site Information Settings
 # ---------------------------------------------------------------
 
-favicon: "//pinedance.github.io/blog/assets/favicon.png"
+favicon: "//godkimchee.github.io/public/img/favicon.png"
 
 # Set default keywords (Use a comma to separate)
-keywords: "돈, 경제, 투자, 경제적 자유, 퀀트, money, economy, finance"
+keywords: "한의학, 경험, 의안, 치료, 기록, 역사"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
