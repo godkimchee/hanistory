@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[우잠잡저] "
+title:  "[지사공유사] "
 description: 
 categories: [의안]
-tags: [우잠잡저, 의안, ]
+tags: [지사공유사, 의안, ]
 ---
 
 ## 내용
